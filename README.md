@@ -68,6 +68,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7317845483870150656/
 
 # 🧑‍💻 Author
 
-Omkar Patkar 
-Artificial Intelligence & Data Science Engineering student at Konkan Gyanpeeth College of Engineering*
+Omkar Patkar
+Artificial Intelligence & Data Science Engineering student at Konkan Gyanpeeth College of Engineering
 
